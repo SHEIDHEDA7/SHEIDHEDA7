@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm JUNAIDH FARDEEN</h1>
-<h3 align="center">A passionate Flutter, IOS developer from India</h3>
+<h3 align="center">A passionate Spring Boot, IOS developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.apple.com/newsroom/images/product/app-store/Apple_App_Store_10th_anniversary_07102018_big.gif.medium.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheidheda7&label=Profile%20views&color=0e75b6&style=flat" alt="sheidheda7" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, IOS**
+- 🌱 I’m currently learning **Java Spring Boot, IOS**
 
-- I’m looking to collaborate on **Flutter, IOS projects**
+- I’m looking to collaborate on **Spring Boot, IOS projects**
 
 - 📫 How to reach me **junaidhf7b@gmail.com**
 
