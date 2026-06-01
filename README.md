@@ -16,16 +16,13 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a>
   <a href="https://spring.io" target="_blank" rel="noreferrer"> 
     <img src="https://spring.io/img/projects/spring-boot.svg" alt="flutter" width="40" height="40"/> 
   </a>
+  <br>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+  </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheidheda7&show_icons=true&locale=en&layout=compact" alt="sheidheda7" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheidheda7&show_icons=true&locale=en" alt="sheidheda7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheidheda7&" alt="sheidheda7" /></p>
